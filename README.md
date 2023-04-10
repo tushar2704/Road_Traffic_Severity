@@ -26,7 +26,7 @@ Target variable:
 * `price`: Price of the given Diamond.
 
 Dataset Source Link :
-[]()
+[NARCIS](https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A191591)
 
 ### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 

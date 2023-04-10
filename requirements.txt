@@ -4,8 +4,8 @@ matplotlib
 seaborn
 scikit-learn
 ipykernel
-catboost
-xgboost
+#catboost
+#xgboost
 dill
 flask
 flask_cors
