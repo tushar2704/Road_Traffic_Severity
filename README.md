@@ -1,8 +1,11 @@
-﻿# Road Traffic Severity Classification by Tushar Aggarwal [LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)
+﻿# Road Traffic Severity Classification by Tushar Aggarwal 
+[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)
+
+[Kaggle](https://www.kaggle.com/tusharaggarwal27)
 
 ### Introduction About the Data :
 
-**The dataset** The goal is to predict `price` of given diamond (Regression Analysis).
+**This data set is collected from Addis Ababa Sub-city police departments for master's research work. The data set has been prepared from manual records of road traffic accidents of the year 2017-20. All the sensitive information has been excluded during data encoding and finally it has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms.**
 
 There are 10 independent variables (including `id`):
 
@@ -21,15 +24,15 @@ Target variable:
 * `price`: Price of the given Diamond.
 
 Dataset Source Link :
-[https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+[]()
 
 ### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 
-### Check this link for details : [American Gem Society](https://www.americangemsociety.org/ags-diamond-grading-system/)
+### Check this link for details : []()
 
 # AWS Deployment Link :
 
-AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
+AWS Elastic Beanstalk link : []()
 
 # Screenshot of UI
 
@@ -39,11 +42,11 @@ AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wap
 
 Link for YouTube Video : Click the below thumbnail to open 
 
-[![https://youtu.be/Xvk5r0t_RQw](https://i.ytimg.com/vi/Xvk5r0t_RQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbp5SouquUm3Y3t-NYfOYsg4N4oQ)](https://youtu.be/Xvk5r0t_RQw)
+
 
 # AWS API Link
 
-API Link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI)
+API Link : []()
 
 # Postman Testing of API :
 
