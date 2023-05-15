@@ -14,4 +14,7 @@ streamlit
 gdown
 shap
 plotly
--e .
+joblib
+Pillow
+scipy
+
