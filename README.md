@@ -1,7 +1,7 @@
 ﻿# Road Traffic Severity Classification by Tushar Aggarwal 
 [LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)
 
-[Kaggle](https://www.kaggle.com/tusharaggarwal27)
+[Kaggle](https://www.kaggle.com/tusharaggarwal27).
 
 ### Introduction About the Data :
 
