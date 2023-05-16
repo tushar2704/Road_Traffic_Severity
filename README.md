@@ -1,29 +1,9 @@
 ﻿# Road Traffic Severity Classification by Tushar Aggarwal 
-[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)
-
-[Kaggle](https://www.kaggle.com/tusharaggarwal27).
-
 ### Introduction About the Data :
 
 **This data set is collected from Addis Ababa Sub-city police departments for master's research work. The data set has been prepared from manual records of road traffic accidents of the year 2017-20. All the sensitive information has been excluded during data encoding and finally it has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms.**
 
 **Problem Statement: The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. Your metric for evaluation will be f1-score.**
-
-There are 10 independent variables (including `id`):
-
-* `id` : unique identifier of each diamond
-* `carat` : Carat (ct.) refers to the unique unit of weight measurement used exclusively to weigh gemstones and diamonds.
-* `cut` : Quality of Diamond Cut
-* `color` : Color of Diamond
-* `clarity` : Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification.
-* `depth` : The depth of diamond is its height (in millimeters) measured from the culet (bottom tip) to the table (flat, top surface)
-* `table` : A diamond's table is the facet which can be seen when the stone is viewed face up.
-* `x` : Diamond X dimension
-* `y` : Diamond Y dimension
-* `x` : Diamond Z dimension
-
-Target variable:
-* `price`: Price of the given Diamond.
 
 Dataset Source Link :
 [NARCIS](https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A191591)
@@ -39,11 +19,11 @@ pip install -r requirements.txt
 # Deployed Link:
 ### Streamllit:
  ```
-https://tushar2704-nba-player-app-nba-app-b0r5my.streamlit.app/
+https://tushar2704-road-traffic-severity-rts-app-sf35uz.streamlit.app/
  ```
 ### Render:
  ```
-https://tushar2704-nba-player-app-nba-app-b0r5my.streamlit.app/
+https://rts-app.onrender.com
  ```
 
 
