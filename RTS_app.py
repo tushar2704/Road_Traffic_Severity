@@ -19,7 +19,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-model = joblib.load(r'notebooks\random_forest_final.joblib')
+model = joblib.load(r'Road_Traffic_Severity\notebooks\random_forest_final.joblib')
 
 
 # Title of application
@@ -64,7 +64,7 @@ features = ['hour','day_of_week','casualties','accident_cause','vehicles_involve
 def main():
     with st.form('prediction_form'):
 
-        st.sidebar.subheader("Enter the input for following features:")
+        st.sidebar.subheader("Choose from the following features:")
         
         hour = st.sidebar.slider("Pickup Hour: ", 0, 23, value=0, format="%d")
         day_of_week = st.sidebar.selectbox("Select Day of the Week: ", options=options_day)

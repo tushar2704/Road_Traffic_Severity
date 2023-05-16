@@ -28,6 +28,26 @@ Target variable:
 Dataset Source Link :
 [NARCIS](https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A191591)
 
+# Demo:
+```
+streamlit run RTS_app.py
+```
+ Pip install libraries
+```
+pip install -r requirements.txt
+```
+# Deployed Link:
+### Streamllit:
+ ```
+https://tushar2704-nba-player-app-nba-app-b0r5my.streamlit.app/
+ ```
+### Render:
+ ```
+https://tushar2704-nba-player-app-nba-app-b0r5my.streamlit.app/
+ ```
+
+
+
 ### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 
 ### Check this link for details : []()
