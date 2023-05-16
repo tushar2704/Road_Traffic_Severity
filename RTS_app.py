@@ -19,7 +19,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-model = joblib.load(r'Road_Traffic_Severity\notebooks\random_forest_final.joblib')
+model = joblib.load(r'random_forest_final.joblib')
 
 
 # Title of application
