@@ -17,42 +17,18 @@ streamlit run RTS_app.py
 pip install -r requirements.txt
 ```
 # Deployed Link:
-### Streamllit:
- ```
-https://tushar2704-road-traffic-severity-rts-app-sf35uz.streamlit.app/
- ```
-### Render:
- ```
-https://rts-app.onrender.com
- ```
+### [Streamllit](https://tushar2704-road-traffic-severity-rts-app-sf35uz.streamlit.app/)
 
+### [Render](https://rts-app.onrender.com)
 
-
-### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
-
-### Check this link for details : []()
-
-# AWS Deployment Link :
-
-AWS Elastic Beanstalk link : []()
+### [AWS EB]
 
 # Screenshot of UI
 
 ![HomepageUI](./Screenshots/HomepageUI.jpg)
 
-# YouTube Video Link
-
-Link for YouTube Video : Click the below thumbnail to open 
-
-
-
-# AWS API Link
-
-API Link : []()
-
-# Postman Testing of API :
-
-![API Prediction](./Screenshots/APIPrediction.jpg)
+# YouTube Video
+### [YouTube] 
 
 # Approach for the project 
 
