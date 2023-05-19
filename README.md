@@ -23,29 +23,29 @@ pip install -r requirements.txt
 
 ### [AWS EB] TBD
 
-# Screenshot of UI TBD
+### Screenshot of UI TBD
 
-# Exploratory Data Analysis Notebook TBD
+### Exploratory Data Analysis Notebook TBD
 
-# Model Training Approach Notebook  TBD
-# Model Interpretation with SHAP TBD
+### Model Training Approach Notebook  TBD
+### Model Interpretation with SHAP TBD
 
 """""""""""""""""""""""""""""""
 
-## Project Purpose:  TBD
+### Project Purpose:  TBD
 
-## Business Case:  TBD
+### Business Case:  TBD
 
-## Goal:  TBD
+### Goal:  TBD
 
 ### In Repository: TBD
 
-## Results and Model Evaluation:  TBD
+### Results and Model Evaluation:  TBD
 **Precision:**  TBD
 **Accuracy:** TBD
 **Recall:** TBD
 **F1 Score:** TBD
-## Business Impact: 
+### Business Impact: 
 
 
 ### Next Steps: Monitor performance and retrain model with more data as more data becomes available. 
