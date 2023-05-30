@@ -51,12 +51,11 @@ pip install -r requirements.txt
 ### Next Steps: Monitor performance and retrain model with more data as more data becomes available. 
 
 ## Author
-
-- <b>Tushar Aggarwal</b>
-- <b>LinkedIn</b>: https://www.linkedin.com/in/tusharaggarwalinseec/
-- <b>Website</b>: https://www.tushar-aggarwal.com/
-- <b>Kaggle</b>: https://www.kaggle.com/tusharaggarwal27
-
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[Kaggle](https://www.kaggle.com/tusharaggarwal27)</b> 
 
 
 ## Feedback
