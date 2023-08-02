@@ -21,20 +21,21 @@ pip install -r requirements.txt
 
 ### [Render](https://rts-app.onrender.com)
 
-### [AWS EB] TBD
-
-### Screenshot of UI TBD
-
-### Exploratory Data Analysis Notebook TBD
-
-### Model Training Approach Notebook  TBD
-### Model Interpretation with SHAP TBD
-
 """""""""""""""""""""""""""""""
 
-### Project Purpose:  TBD
+### Project Purpose:
+The purpose of the Road_Traffic_Severity project is to develop a robust and data-driven solution for analyzing and predicting the severity of road traffic incidents. The primary aim is to empower traffic management authorities, transportation planners, and researchers with actionable insights to improve road safety, reduce accidents, and enhance traffic flow efficiency.
 
-### Business Case:  TBD
+### Business Case: 
+Road traffic accidents have significant social, economic, and environmental impacts. They lead to loss of life, injuries, property damage, and traffic congestion, causing immense financial burdens on governments and businesses. By addressing this critical issue through advanced data analysis and predictive modeling, the Road_Traffic_Severity project aims to:
+
+**Save Lives and Reduce Injuries:** By understanding the factors contributing to traffic accidents, authorities can implement targeted measures to prevent accidents and reduce the severity of injuries in the event of incidents.
+
+**Optimize Traffic Management**: With real-time monitoring and predictive analytics, traffic management authorities can proactively respond to potential traffic incidents, diverting traffic to alternative routes, and minimizing congestion.
+
+**Resource Allocation:** The project helps in efficiently allocating resources such as emergency services, law enforcement, and road maintenance, ensuring timely response and assistance during accidents.
+
+**Cost Reduction:** By mitigating the frequency and severity of accidents, the project can lead to significant cost savings in terms of healthcare expenses, vehicle repair, and traffic-related delays.
 
 ### Goal:  TBD
 
